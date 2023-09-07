@@ -5,7 +5,8 @@ Welcome to Sharpener Technology Web Development
 2. Web Development
 
 HTML(Hyper Text Markup Language)
-
+CSS(Cascade Style Sheet)
+JS(Java Script)
 
 
 
